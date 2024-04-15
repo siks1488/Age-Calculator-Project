@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(6, 74, 129);
+    color:white;
+    font-family: "Poppins";
+}
+
+header{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:250px;
+    border:1px rgb(10, 87, 100) solid;
+    background-color: rgb(10, 87, 100);
+    margin-left:600px;
+    margin-right:600px;
+    border-bottom-width:200px ;
+    
+}
+#birthdate{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:-200px;
+}
+#date{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:900px;
+}
+#result{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+#submit{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:900px;
+    font-family: "Poppins" ;
+    background-color: rgb(43, 43, 73);
+    border:10px rgb(43, 43, 73) solid;
+    border-radius: 5%;
+    color:white;
+}
